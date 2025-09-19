@@ -9,9 +9,9 @@ namespace EmployeeInterfaceApp
             // Create a new instance of Employee and assign values
             Employee emp = new Employee
             {
-                Id = 123,
-                FirstName = "Alice",
-                LastName = "Johnson"
+                Id = 113,
+                FirstName = "Maysaa",
+                LastName = "Naseer"
             };
 
             // Use polymorphism: assign the Employee object to a variable of type IQuittable
